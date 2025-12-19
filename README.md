@@ -3,6 +3,6 @@ FC • Singularity is a Hill Climb Racing 2 open source script that can enchance
 
 ___
 
-Script Developer:
-Anonymous
-Cynoxia
+# Script Developer:
+- Anonymous
+- Cynoxia
